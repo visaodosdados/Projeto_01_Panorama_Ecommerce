@@ -1,6 +1,6 @@
 # Panorama do E-commerce Brasileiro
 
-Projeto desenvolvido pela Visão dos Dados.
+Projeto desenvolvido por Amanda Soler.
 
 ## Objetivo
 
